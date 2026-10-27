@@ -1,6 +1,6 @@
 # HCMK26CNTT2_IT108_Session10_Ex01
 Bài tập 1
-# 🚀 Bộ Hồ Sơ Đối Soát Dự Án Ví Điện Tử PayKX (Session 12 Ex01)
+# Bộ Hồ Sơ Đối Soát Dự Án Ví Điện Tử PayKX (Session 12 Ex01)
 
 Bài tập phân tích và chuẩn hóa tài liệu đối soát giao dịch tháng cho dự án ví điện tử PayKX dành cho sinh viên.
 
